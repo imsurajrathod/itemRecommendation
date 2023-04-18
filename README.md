@@ -29,3 +29,6 @@ NOTE:
 THIS CODE IS JUST FOR THE PURPOSE OF DEMO.
 You can add similarity_scores score in caching or nosql db instead of calculating everytime and recalculate similarity_scores based on traffic you have and reinsert/update the record. 
 I had added DB structure just for reference. You have to add data according to the image as shown above and run the code you will get the result.
+
+
+Above example reference taken from site [grabngoinfo](https://grabngoinfo.com/recommendation-system-item-based-collaborative-filtering/)
